@@ -13,4 +13,4 @@ print(t1.index(10))  # 0
 print(t1.index(10,4,9)) # 8
 
 t1 = 10,
-print(t1, type(t1))
+print(t1, type(t1))   #(10,) <class 'tuple'>
